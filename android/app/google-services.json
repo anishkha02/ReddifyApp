@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "490293986988",
+    "project_id": "reddify-19e2e",
+    "storage_bucket": "reddify-19e2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490293986988:android:4239a822e3e565075fc109",
+        "android_client_info": {
+          "package_name": "com.example.reddify_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyux1b-5-EOWdhcG8wSlc446N_zoaxUSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
